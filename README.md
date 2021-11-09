@@ -1,2 +1,2 @@
 # Python
- Programas feitos estudando Python
+ Programas feitos estudando **Python**
