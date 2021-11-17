@@ -1,4 +1,5 @@
 #Desafio para contar a idade de apresentação nos serviços militares
+#USANDO A BIBLIOTECA DE DATAS
 from datetime import date
 
 print('-----> DESAFIO 39 <-----')
