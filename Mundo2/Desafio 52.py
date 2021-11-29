@@ -1,6 +1,5 @@
 print('----->DESAFIO 52<-----')
 num = int(input('Digite um número: '))
-
 cont = 0
 
 for c in range(1, num +1):
