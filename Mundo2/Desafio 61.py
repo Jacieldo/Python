@@ -6,5 +6,5 @@ cont = 0
 
 while cont < 10:
     num += rz
-    print(num)
+    print(' ',num, end='')
     cont += 1

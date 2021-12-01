@@ -2,7 +2,7 @@ import random
 print('----->DESAFIO 58<-----')
 pc = random.randint(0, 10)
 sorte = int(input('Digite um número inteiro: '))
-print(pc)
+print(pc)#Só pra fazer o teste
 cont = 0
 if pc != sorte:
     while pc != sorte:
